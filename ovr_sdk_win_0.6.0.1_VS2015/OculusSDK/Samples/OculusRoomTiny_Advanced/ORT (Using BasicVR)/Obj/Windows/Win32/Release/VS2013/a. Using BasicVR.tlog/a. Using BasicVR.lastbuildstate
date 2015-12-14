@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|Win32|\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\Samples\Projects\Windows\VS2015\|

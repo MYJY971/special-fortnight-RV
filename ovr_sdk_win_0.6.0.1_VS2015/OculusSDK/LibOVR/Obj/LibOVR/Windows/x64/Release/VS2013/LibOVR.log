@@ -1,0 +1,28 @@
+﻿La génération a démarré 12/12/2015 11:35:38.
+     1>Projet "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\LibOVR.vcxproj" sur le nœud 3 (Build cible(s)).
+     1>PreBuildEvent:
+         echo static const char* OVR_FORCE_REBUILD_PRE = __TIMESTAMP__; /* DO NOT SOURCE CONTROL THIS FILE */ > "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\OVR_ForceRebuildNoCheckin.h"
+         :VCEnd
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I../../../Include /Z7 /nologo /W4 /WX- /MP /O2 /Oi /D _WIN64 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/" /Fd"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/LibOVR.pdb" /Gd /TC /FI"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\OVR_ForceRebuildNoCheckin.h" /Zl /errorReport:prompt /FC /d2Zi+ ..\..\..\Src\OVR_CAPIShim.c
+         OVR_CAPIShim.c
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I../../../Include /Z7 /nologo /W4 /WX- /MP /O2 /Oi /D _WIN64 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/" /Fd"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/LibOVR.pdb" /Gd /TP /FI"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\OVR_ForceRebuildNoCheckin.h" /Zl /errorReport:prompt /FC /d2Zi+ ..\..\..\Src\OVR_CAPI_Util.cpp ..\..\..\Src\OVR_StereoProjection.cpp
+         OVR_CAPI_Util.cpp
+         OVR_StereoProjection.cpp
+     1>\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\rv\project\ovr_sdk_win_0.6.0.1_vs2015\oculussdk\libovr\include\extras\ovr_math.h(339): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données (compilation du fichier source ..\..\..\Src\OVR_CAPI_Util.cpp)
+     1>\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\rv\project\ovr_sdk_win_0.6.0.1_vs2015\oculussdk\libovr\include\extras\ovr_math.h(343): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données (compilation du fichier source ..\..\..\Src\OVR_CAPI_Util.cpp)
+     1>\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\rv\project\ovr_sdk_win_0.6.0.1_vs2015\oculussdk\libovr\include\extras\ovr_math.h(339): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données (compilation du fichier source ..\..\..\Src\OVR_StereoProjection.cpp)
+     1>\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\rv\project\ovr_sdk_win_0.6.0.1_vs2015\oculussdk\libovr\include\extras\ovr_math.h(343): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données (compilation du fichier source ..\..\..\Src\OVR_StereoProjection.cpp)
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Lib/Windows/x64/Release/VS2013/LibOVR.lib" /NOLOGO /MACHINE:X64 /LTCG "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/OVR_CAPIShim.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/OVR_CAPI_Util.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Obj/LibOVR/Windows/x64/Release/VS2013/OVR_StereoProjection.obj"
+         LibOVR.vcxproj -> \\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\../../../Lib/Windows/x64/Release/VS2013/LibOVR.lib
+       PostBuildEvent:
+         echo static const char* OVR_FORCE_REBUILD_POST = __TIMESTAMP__; /* DO NOT SOURCE CONTROL THIS FILE */ > "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\OVR_ForceRebuildNoCheckin.h"
+         :VCEnd
+     1>Génération du projet "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVR\Projects\Windows\VS2015\LibOVR.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.71

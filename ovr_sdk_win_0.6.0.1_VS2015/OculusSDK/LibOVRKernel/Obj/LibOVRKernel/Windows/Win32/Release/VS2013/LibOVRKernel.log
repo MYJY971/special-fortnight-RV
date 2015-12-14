@@ -1,0 +1,46 @@
+﻿La génération a démarré 12/12/2015 11:36:16.
+     1>Projet "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\LibOVRKernel.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../../LibOVRKernel/Src/" /Z7 /nologo /W4 /WX- /MP /Ox /Ob2 /Oi /Oy- /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /GF- /Gm- /MT /GS- /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/" /Fd"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/LibOVRKernel.pdb" /Gd /TP /analyze- /Zl /errorReport:prompt /d2Zi+ /we4263 /we4264 /we4265 /we4266 ..\..\..\Src\Util\Util_D3D11_Blitter.cpp
+         Util_D3D11_Blitter.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Lib/Windows/Win32/Release/VS2013/LibOVRKernel.lib" /NOLOGO /LTCG "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/CAPI_GLE.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Alg.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Allocator.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Atomic.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Callbacks.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_CRC32.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_DebugHelp.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_File.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_FileFILE.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_JSON.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Log.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_mach_exc_OSX.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Rand.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_RefCount.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_SharedMemory.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Std.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_String.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_String_FormatUtil.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_String_PathUtil.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_SysFile.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_System.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_ThreadCommandQueue.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_ThreadsPthread.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_ThreadsWinAPI.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_Timer.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/OVR_UTF8Util.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_D3D11_Blitter.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_Direct3D.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_GL_Blitter.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_ImageWindow.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_LongPollThread.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_SystemGUI.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_SystemInfo.obj"
+         "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Obj/LibOVRKernel/Windows/Win32/Release/VS2013/Util_Watchdog.obj"
+         LibOVRKernel.vcxproj -> \\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\../../../Lib/Windows/Win32/Release/VS2013/LibOVRKernel.lib
+     1>Génération du projet "\\netapp.emi.u-bordeaux1.fr\travail\ymounsamy\RV\Project\ovr_sdk_win_0.6.0.1_VS2015\OculusSDK\LibOVRKernel\Projects\Windows\VS2015\LibOVRKernel.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:06.41
